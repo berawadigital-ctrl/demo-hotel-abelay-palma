@@ -1,0 +1,45 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelabelay.es/es/home.html",
+ "read_at": "2026-10-29T13:12:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelabelay.es/es/contacto.html",
+   "sha256": "40ceaf8ad2d29102cb6d439634d12ddb31adfffdd3199eb294dbbb000faa16a0",
+   "chars": 1124
+  },
+  {
+   "url": "https://www.hotelabelay.es/es/habitaciones.html",
+   "sha256": "522dd82e77e99c5591a9346e262f692f964c1c03968699b34541a6d34d557d39",
+   "chars": 1297
+  },
+  {
+   "url": "https://www.hotelabelay.es/es/home.html",
+   "sha256": "f29321e4c522a977e9cfb77b5b24eeeb75bd3e1d6f1a621267b4b7f101cf9692",
+   "chars": 1555
+  },
+  {
+   "url": "https://www.hotelabelay.es/es/hotel.html",
+   "sha256": "99811fd37fc9b20316d6a58ff65f3e97df0c1ee86a7ee524684f066542b07e56",
+   "chars": 1443
+  },
+  {
+   "url": "https://www.hotelabelay.es/es/mapa.html",
+   "sha256": "1647852b25fcd71e820ce25c3137ec856e0008503f3e4e1a71b5d01784e00364",
+   "chars": 1214
+  },
+  {
+   "url": "https://www.hotelabelay.es/es/nota-legal.html",
+   "sha256": "30ed50d2e5f97a4078679717568ad084ad8e80ba13d5626b215ca19261901769",
+   "chars": 7722
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelabelay.es/be/rv_mi-reserva.xhtml?lng=es",
+  "https://www.hotelabelay.es/es/fotos.html",
+  "https://www.hotelabelay.es/es/newsletter.html",
+  "https://www.hotelabelay.es/es/restaurante.html",
+  "https://www.hotelabelay.es/index.xhtml?lng=es"
+ ]
+}
