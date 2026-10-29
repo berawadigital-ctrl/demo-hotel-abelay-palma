@@ -1,0 +1,449 @@
+{
+ "url": "file:///tmp/clon-hotel-abelay-palma/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 55 habitaciones de uso individual (1 persona), doble (2 personas) y triple (3 personas), reformadas entre 2017 y 2020."
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Todas tienen baño privado, aire acondicionado y calefacción, wifi gratuito, televisión, teléfono con servicio de despertador, gel y champú, "
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Está en Carrer de Pablo Iglesias 49, 07004 Palma, a escasos minutos de la Plaza de España, cerca de las piscinas municipales de Son Hugo, el"
+    },
+    {
+     "q": "¿Cómo llego desde el aeropuerto?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El hotel está a unos 15 minutos en coche del aeropuerto de Palma de Mallorca."
+    },
+    {
+     "q": "¿Hay transporte público cerca?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "A 2 minutos hay una parada de autobuses, y a 10 minutos está el Parc de Les Estacions, la estación intermodal con EMT, transporte público de"
+    },
+    {
+     "q": "¿Qué servicios tiene?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Cafetería, bar y restaurante, recepción 24 horas, ascensor, gimnasio, wifi gratuito, máquina de bebidas, consigna de equipajes, caja fuerte "
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Hay parking bajo petición; hay que consultarlo en recepción."
+    },
+    {
+     "q": "¿La recepción abre 24 horas?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, la recepción está abierta las 24 horas. También ofrecen late check-in."
+    },
+    {
+     "q": "¿Tienen cuna?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, hay cuna bajo petición previa, y el hotel es apto para familias."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 971 75 60 34 o escribir a info@hotelabelay.es. Este asistente no con"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Según su nota legal, el titular es ABELAY S.L, CIF B07304389."
+    },
+    {
+     "q": "¿Se puede fumar?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "No: está prohibido fumar."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 971 75 60 34 · info@hotelabelay.es."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 971 75 60 34 o escribir a info@hotelabelay.es. Este asistente no con"
+    },
+    {
+     "q": "¿Hay piscina en el hotel?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 971 75 60 34 · info@hotelabelay.es."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 971 75 60 34 · info@hotelabelay.es."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Dónde está?",
+    "¿Qué servicios tiene?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "stat2",
+    "svc4",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 55 habitacions d'ús individual (1 persona), doble (2 persones) i triple (3 persones), reformades entre 2017 i 2020."
+    },
+    {
+     "q": "Què tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Totes tenen bany privat, aire condicionat i calefacció, wifi gratuït, televisió, telèfon amb servei de despertador, gel i xampú, llençols i "
+    },
+    {
+     "q": "On és?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "És al carrer de Pablo Iglesias 49, 07004 Palma, a pocs minuts de la Plaça d'Espanya, a prop de les piscines municipals de Son Hugo, el conse"
+    },
+    {
+     "q": "Com hi arribo des de l'aeroport?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hotel és a uns 15 minuts amb cotxe de l'aeroport de Palma."
+    },
+    {
+     "q": "Hi ha transport públic a prop?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "A 2 minuts hi ha una parada d'autobusos, i a 10 minuts hi ha el Parc de Les Estacions, l'estació intermodal amb EMT, transport públic de Mal"
+    },
+    {
+     "q": "Quins serveis té?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Cafeteria, bar i restaurant, recepció 24 hores, ascensor, gimnàs, wifi gratuït, màquina de begudes, consigna d'equipatges, caixa forta a rec"
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Hi ha pàrquing sota petició; cal consultar-ho a recepció."
+    },
+    {
+     "q": "La recepció obre 24 hores?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, la recepció és oberta les 24 hores. També ofereixen late check-in."
+    },
+    {
+     "q": "Teniu bressol?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, hi ha bressol sota petició prèvia, i l'hotel és apte per a famílies."
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 971 75 60 34 o escriure a info@hotelabelay.es. Aquest assistent no con"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Segons la seva nota legal, el titular és ABELAY S.L, CIF B07304389."
+    },
+    {
+     "q": "Es pot fumar?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "No: està prohibit fumar."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 971 75 60 34 · info@hotelabelay.es."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 971 75 60 34 o escriure a info@hotelabelay.es. Aquest assistent no con"
+    },
+    {
+     "q": "Hi ha piscina a l'hotel?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 971 75 60 34 · info@hotelabelay.es."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 971 75 60 34 · info@hotelabelay.es."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "On és?",
+    "Quins serveis té?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 55 rooms for single (1 person), double (2 people) and triple (3 people) use, refurbished between 2017 and 2020."
+    },
+    {
+     "q": "What do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "All have a private bathroom, air conditioning and heating, free wifi, TV, a phone with wake-up service, shower gel and shampoo, sheets and t"
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It is at Carrer de Pablo Iglesias 49, 07004 Palma, a few minutes from Plaza de España, close to the Son Hugo municipal pools, the conservato"
+    },
+    {
+     "q": "How do I get there from the airport?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "The hotel is about 15 minutes by car from Palma de Mallorca airport."
+    },
+    {
+     "q": "Is there public transport nearby?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "There is a bus stop 2 minutes away, and Parc de Les Estacions, the intermodal station with EMT buses, Mallorca public transport, the Palma m"
+    },
+    {
+     "q": "What services are there?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Café, bar and restaurant, 24-hour reception, lift, gym, free wifi, drinks machine, luggage storage, safe at reception, tourist information a"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Parking is available on request; ask at reception."
+    },
+    {
+     "q": "Is the reception open 24 hours?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, reception is open 24 hours. They also offer late check-in."
+    },
+    {
+     "q": "Do you have a cot?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, a cot is available on prior request, and the hotel is family friendly."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 971 75 60 34 or email info@hotelabelay.es. This assistant does not confirm availa"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "According to its legal notice, the owner is ABELAY S.L, CIF B07304389."
+    },
+    {
+     "q": "Can I smoke?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "No: smoking is not allowed."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 971 75 60 34 · info@hotelabelay.es."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 971 75 60 34 or email info@hotelabelay.es. This assistant does not confirm availa"
+    },
+    {
+     "q": "Is there a swimming pool at the hotel?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 971 75 60 34 · info@hotelabelay.es."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 971 75 60 34 · info@hotelabelay.es."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Where is it?",
+    "What services are there?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 55 chambres individuelles (1 personne), doubles (2 personnes) et triples (3 personnes), rénovées entre 2017 et 2020."
+    },
+    {
+     "q": "Qu'ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Toutes ont une salle de bain privée, la climatisation et le chauffage, le wifi gratuit, la télévision, un téléphone avec service de réveil, "
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il se trouve Carrer de Pablo Iglesias 49, 07004 Palma, à quelques minutes de la Plaza de España, près des piscines municipales de Son Hugo, "
+    },
+    {
+     "q": "Comment venir depuis l'aéroport ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hôtel est à environ 15 minutes en voiture de l'aéroport de Palma de Majorque."
+    },
+    {
+     "q": "Y a-t-il des transports publics à proximité ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Un arrêt de bus se trouve à 2 minutes, et le Parc de Les Estacions, la gare intermodale avec les bus EMT, les transports publics de Majorque"
+    },
+    {
+     "q": "Quels services propose-t-il ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Cafétéria, bar et restaurant, réception 24 h/24, ascenseur, salle de sport, wifi gratuit, distributeur de boissons, consigne à bagages, coff"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Un parking est disponible sur demande ; renseignez-vous à la réception."
+    },
+    {
+     "q": "La réception est-elle ouverte 24 heures ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, la réception est ouverte 24 heures sur 24. Ils proposent aussi une arrivée tardive."
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, un lit bébé est disponible sur demande préalable, et l'hôtel est adapté aux familles."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 971 75 60 34 ou écrire à info@hotelabelay.es. Cet assis"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Selon ses mentions légales, le titulaire est ABELAY S.L, CIF B07304389."
+    },
+    {
+     "q": "Peut-on fumer ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Non : il est interdit de fumer."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 971 75 60 34 · info@hotelabelay.es."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 971 75 60 34 ou écrire à info@hotelabelay.es. Cet assis"
+    },
+    {
+     "q": "Y a-t-il une piscine à l'hôtel ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 971 75 60 34 · info@hotelabelay.es."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 971 75 60 34 · info@hotelabelay.es."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Où est-il ?",
+    "Quels services propose-t-il ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
